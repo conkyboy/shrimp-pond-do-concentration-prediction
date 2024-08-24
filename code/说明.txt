@@ -1,3 +1,0 @@
-1：输入.csv文件，执行Feature Interaction_NCMl.py，得到约简
-2：执行DNN.py得到预测结果
-3：执行RegressionModels.py得到各个模型指标
